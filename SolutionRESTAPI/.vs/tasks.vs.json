@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-FormMain",
+      "appliesTo": "ClientProductsApp-base/FormMain.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-SolutionRESTAPI",
+      "appliesTo": "SolutionRESTAPI.sln",
+      "type": "launch"
+    }
+  ]
+}

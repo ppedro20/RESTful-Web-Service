@@ -1,0 +1,268 @@
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\ProductsDatabaseAPI.dll.config
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\ProductsDatabaseAPI.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\ProductsDatabaseAPI.pdb
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csc.exe
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csc.exe.config
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csc.rsp
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csi.exe
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csi.exe.config
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csi.rsp
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.AppContext.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Console.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.Compression.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Net.Http.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Net.Sockets.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.ValueTuple.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.XPath.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\vbc.exe
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\vbc.exe.config
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\vbc.rsp
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\VBCSCompiler.exe
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\Newtonsoft.Json.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Net.Http.Formatting.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.WebHost.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\Newtonsoft.Json.xml
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Net.Http.Formatting.xml
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.xml
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.WebHost.xml
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.csproj.AssemblyReference.cache
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.csproj.CoreCompileInputs.cache
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.csproj.CopyComplete
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.dll
+C:\IS\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.pdb
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\ProductsDatabaseAPI.dll.config
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\ProductsDatabaseAPI.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\ProductsDatabaseAPI.pdb
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csc.exe
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csc.exe.config
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csc.rsp
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csi.exe
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csi.exe.config
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csi.rsp
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.AppContext.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Console.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\vbc.exe
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\vbc.exe.config
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\vbc.rsp
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\Newtonsoft.Json.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\Newtonsoft.Json.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.csproj.CopyComplete
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.pdb
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\ProductsDatabaseAPI.dll.config
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\ProductsDatabaseAPI.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\ProductsDatabaseAPI.pdb
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csc.exe
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csc.exe.config
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csc.rsp
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csi.exe
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csi.exe.config
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csi.rsp
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.AppContext.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Console.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\vbc.exe
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\vbc.exe.config
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\vbc.rsp
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\Newtonsoft.Json.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\Newtonsoft.Json.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.csproj.CopyComplete
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.pdb
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\ProductsDatabaseAPI.dll.config
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\ProductsDatabaseAPI.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\ProductsDatabaseAPI.pdb
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csc.exe
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csc.exe.config
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csc.rsp
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csi.exe
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csi.exe.config
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\csi.rsp
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.AppContext.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Console.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\vbc.exe
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\vbc.exe.config
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\vbc.rsp
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\Newtonsoft.Json.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\Newtonsoft.Json.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.csproj.CopyComplete
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.dll
+C:\Users\pedro\source\repos\SolutionRESTAPI_Swagger\RESTful Web Service\SolutionRESTAPI\ProductsDatabaseAPI\obj\Debug\ProductsDatabaseAPI.pdb
